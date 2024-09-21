@@ -1,0 +1,9 @@
+
+/.vs
+/AdventureWorks.Context/bin
+/AdventureWorks.Context/obj/Debug
+/AdventureWorks.Context/obj
+/AdventureWorks.Models/bin
+/AdventureWorks.Models/obj
+/AdventureWorks.Web/bin
+/AdventureWorks.Web/obj
